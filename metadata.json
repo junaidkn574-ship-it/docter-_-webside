@@ -1,0 +1,6 @@
+{
+  "name": "Central Hospital - Compassionate Care & Advanced Medicine",
+  "description": "Premier healthcare institution providing advanced medical care, 24/7 emergency services, specialized treatments, and patient-centric care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
